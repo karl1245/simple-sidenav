@@ -20,8 +20,8 @@
     "url": "https://github.com/codica2/simple-sidenav"
   },
   "peerDependencies": {
-    "@angular/common": "^7.1.0",
-    "@angular/core": "^7.1.0",
+    "@angular/common": "~8.1.0",
+    "@angular/core": "~8.1.0",
     "scss-bundle": "^2.4.0"
   }
 }
